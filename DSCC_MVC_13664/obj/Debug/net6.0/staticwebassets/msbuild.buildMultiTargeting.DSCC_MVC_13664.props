@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DSCC_MVC_13664.props" />
+</Project>
